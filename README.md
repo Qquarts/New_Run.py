@@ -37,7 +37,7 @@
 → 뉴런 에너지 순환 시뮬레이션 실행.
 
 2. Ledger 서명 등록
-python3 pham_sign_v2.py New_Run.py "사용자이름" "메시지"
+python3 pham_sign_v3.py New_Run_quick.py "사용자이름" "메시지"
 
 → 코드의 해시값이 블록으로 생성되어 pham_chain_log.json에 자동 저장됩니다.
 → 필요 시 IPFS에 CID가 함께 발행됩니다.
