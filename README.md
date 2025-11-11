@@ -62,40 +62,39 @@ python3 view_chain_quick.py
 
 ⸻
 
-## 🔗 Ledger 정보 (PHAM Chain)
-항목	내용
-현재 버전	v1.0
-최신 CID	QmTVag3oUEqRUV2Webx44dYeUrwFqJ9dAh6W4FBegiwxbP
-블록 수	12
-원본 해시 알고리즘	SHA-256
-저장 위치	pham_chain_log_quick.json / IPFS
-모든 블록은 해시 검증을 통해 무결성을 유지하며,
-previous_hash 체인으로 연결되어 있습니다.
+## 🔗 Ledger 정보 (PHAM Chain)  
+항목	내용  
+현재 버전	v1.0  
+최신 CID	QmTVag3oUEqRUV2Webx44dYeUrwFqJ9dAh6W4FBegiwxbP  
+블록 수	12  
+원본 해시 알고리즘	SHA-256  
+저장 위치	pham_chain_log_quick.json / IPFS  
+모든 블록은 해시 검증을 통해 무결성을 유지하며, previous_hash 체인으로 연결되어 있습니다.  
 
 ⸻
 
 ## 📜 PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)
 
-본 코드는 법적 강제력이 없는 신뢰 기반 라이선스입니다.
-모든 사용자는 자유롭게 코드를 활용할 수 있으며,
-상업적 수익이 발생할 경우 최대 6% 이하의 자발적 기여를 권장합니다.
+본 코드는 법적 강제력이 없는 신뢰 기반 라이선스입니다.  
+모든 사용자는 자유롭게 코드를 활용할 수 있으며,  
+상업적 수익이 발생할 경우 최대 6% 이하의 자발적 기여를 권장합니다.  
 
-핵심 조항 요약
-	1.	연구·교육·비영리 목적 사용 → 완전 자유
-	2.	상업적 수익 발생 시 → 최대 6% 이하의 자발적 기여 문화 형성 권장
-	3.	출처 명시 필수 →
-“Based on PHAM Neural Genesis — New_Run.py © Qquarts Co, 2025”
-	4.	Ledger 해시 및 CID → 변경·삭제 금지
-	5.	모든 기록은 PHAM Ledger를 통해 공개
+핵심 조항 요약  
+	1.	연구·교육·비영리 목적 사용 → 완전 자유  
+	2.	상업적 수익 발생 시 → 최대 6% 이하의 자발적 기여 문화 형성 권장  
+	3.	출처 명시 필수 →  
+“Based on PHAM Neural Genesis — New_Run.py © Qquarts Co, 2025”  
+	4.	Ledger 해시 및 CID → 변경·삭제 금지  
+	5.	모든 기록은 PHAM Ledger를 통해 공개  
 
-Trust as Law. Ledger as Proof. Code as Culture.
+Trust as Law. Ledger as Proof. Code as Culture.  
 
-📄 자세한 전문은 LICENSE 파일 참조.
+📄 자세한 전문은 LICENSE 파일 참조.  
 
-## 💎 기여도 기반 수익 배분 (Contribution-Based Reward System)
+## 💎 기여도 기반 수익 배분 (Contribution-Based Reward System)  
 
-PHAM 시스템은 단순한 자발 기여 모델을 넘어,
-기여 기록(Ledger Entry) 자체가 향후 수익 분배의 근거로 작동합니다.  
+PHAM 시스템은 단순한 자발 기여 모델을 넘어,  
+기여 기록(Ledger Entry) 자체가 향후 수익 분배의 근거로 작동합니다.    
 	•	모든 기여자는 pham_sign_v3.py를 통해 자신의 코드, 수정, 아이디어에 서명(Signature) 합니다.  
 	•	각 서명은 블록체인 기반 Ledger에 저장되어, 기여 시점·내용·CID가 영구히 기록됩니다.  
 	•	PHAM 생태계에서 발생하는 수익은 Ledger 기록을 기반으로 자동 비율 계산 및 배분됩니다. ( 예정 )
