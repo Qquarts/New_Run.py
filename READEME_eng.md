@@ -48,19 +48,16 @@ Anyone can verify their authenticity through the hash.
 ## 🌍 How It Works
 
 ### 1️⃣ Run and Experiment
-```bash
 python3 new_run_quick.py
 → Executes the neuron energy circulation simulation.
 
 ### 2️⃣ Register Signature in Ledger
-```bash
 python3 pham_sign_v3.py new_run_quick.py "YourName" "Message"
 
 → The file’s hash is stored as a new block in pham_chain_log_new_run_quick.json.
 → Optionally, an IPFS CID is also published.
 
 ### 3️⃣ Verify Ledger
-```bash
 python3 view_chain_quick.py
 
 → Displays the full blockchain ledger and signature history.
