@@ -140,6 +140,7 @@ python3 view_chain_quick.py
 ## 💡 주요 목표 (Roadmap)  
 
 단계	목표	상태  
+
 1단계	뉴런 시뮬레이션 코드 발매	✅ 완료  
 2단계	PHAM Ledger 체인 확립	✅ 완료  
 3단계	PHAM-OPEN License 정식화	✅ 완료  
@@ -151,7 +152,7 @@ python3 view_chain_quick.py
 
 ## 📫 연락처 (Contact)
 
-Qquarts Co / GNJz
+Qquarts Co / GNJz  
 📧 이메일: pham@qquarts.co ( 미정 )   
 🌐 웹사이트: https://phamtasia.com  
 🪙 Ledger: PHAM Neural Genesis Chain  
