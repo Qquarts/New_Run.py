@@ -47,93 +47,93 @@ Anyone can verify their authenticity through the hash.
 
 ## 🌍 How It Works
 
-### 1️⃣ Run and Experiment
-python3 new_run_quick.py
-→ Executes the neuron energy circulation simulation.
+### 1️⃣ Run and Experiment  
+python3 new_run_quick.py  
+→ Executes the neuron energy circulation simulation.  
 
-### 2️⃣ Register Signature in Ledger
-python3 pham_sign_v3.py new_run_quick.py "YourName" "Message"
+### 2️⃣ Register Signature in Ledger  
+python3 pham_sign_v3.py new_run_quick.py "YourName" "Message"  
 
-→ The file’s hash is stored as a new block in pham_chain_log_new_run_quick.json.
-→ Optionally, an IPFS CID is also published.
+→ The file’s hash is stored as a new block in pham_chain_log_new_run_quick.json.  
+→ Optionally, an IPFS CID is also published.  
 
-### 3️⃣ Verify Ledger
-python3 view_chain_quick.py
+### 3️⃣ Verify Ledger  
+python3 view_chain_quick.py  
 
-→ Displays the full blockchain ledger and signature history.
-
----
-
-## 🔗 PHAM Chain Info
-Item
-Value
-Version
-v1.0
-Latest CID
-QmTVag3oUEqRUV2Webx44dYeUrwFqJ9dAh6W4FBegiwxbP
-Block Count
-12
-Hash Algorithm
-SHA-256
-Storage
-pham_chain_log_quick.json / IPFS
-
-All blocks are linked via previous_hash, ensuring data integrity and immutability.
+→ Displays the full blockchain ledger and signature history.  
 
 ---
 
-## 📜 PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)
+## 🔗 PHAM Chain Info  
+Item  
+Value  
+Version  
+v1.0  
+Latest CID  
+QmTVag3oUEqRUV2Webx44dYeUrwFqJ9dAh6W4FBegiwxbP  
+Block Count  
+12  
+Hash Algorithm  
+SHA-256  
+Storage  
+pham_chain_log_quick.json / IPFS  
 
-This project follows a trust-based open license without legal enforcement.
-All users are free to use the code for any purpose.
-When commercial profit is generated, up to 6% voluntary contribution is encouraged.
-
-Core Principles
-	1.	Free for research, education, and non-profit use.
-	2.	Up to 6% voluntary contribution for commercial applications.
-	3.	Proper credit must be given:
-“Based on PHAM Neural Genesis — New_Run.py © Qquarts Co, 2025”
-	4.	Ledger hash and CID must not be altered or removed.
-	5.	All updates are transparently recorded in the PHAM Ledger.
-
-🪶 Trust as Law. Ledger as Proof. Code as Culture.
-
-For the full license text, see the LICENSE file.
+All blocks are linked via previous_hash, ensuring data integrity and immutability.  
 
 ---
 
-## 🧠 Philosophy
+## 📜 PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)  
 
-We choose record over law,
-trust over enforcement,
-sharing over possession.
+This project follows a trust-based open license without legal enforcement.  
+All users are free to use the code for any purpose.  
+When commercial profit is generated, up to 6% voluntary contribution is encouraged.  
 
-PHAM Neural Genesis redefines digital creation as a transparent ecosystem
-where developers and researchers prove value through trust and code itself.
+Core Principles  
+	1.	Free for research, education, and non-profit use.  
+	2.	Up to 6% voluntary contribution for commercial applications.  
+	3.	Proper credit must be given:  
+“Based on PHAM Neural Genesis — New_Run.py © Qquarts Co, 2025”  
+	4.	Ledger hash and CID must not be altered or removed.  
+	5.	All updates are transparently recorded in the PHAM Ledger.  
 
----
+🪶 Trust as Law. Ledger as Proof. Code as Culture.  
 
-## 🪩 How to Join
-
-Clone and Run
-
-git clone https://github.com/YOURNAME/pham-neural-genesis.git
-cd pham-neural-genesis
-python3 new_run_quick.py
-
-Verify Your Contribution
-
-python3 view_chain_quick.py
-
-Once your name is recorded in the PHAM Ledger,
-it becomes your personal signature within the system.
+For the full license text, see the LICENSE file.  
 
 ---
 
-## 💡 Roadmap
-Stage
-Goal
-Status
+## 🧠 Philosophy  
+ 
+We choose record over law,  
+trust over enforcement,  
+sharing over possession.  
+
+PHAM Neural Genesis redefines digital creation as a transparent ecosystem  
+where developers and researchers prove value through trust and code itself.  
+
+---
+
+## 🪩 How to Join  
+
+Clone and Run  
+
+git clone https://github.com/YOURNAME/pham-neural-genesis.git  
+cd pham-neural-genesis  
+python3 new_run_quick.py  
+
+Verify Your Contribution  
+
+python3 view_chain_quick.py  
+
+Once your name is recorded in the PHAM Ledger,  
+it becomes your personal signature within the system.  
+
+---
+
+## 💡 Roadmap  
+Stage  
+Goal  
+Status  
 1
 Neuron simulation release
 ✅ Done
