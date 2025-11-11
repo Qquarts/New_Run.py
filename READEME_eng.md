@@ -175,7 +175,8 @@ The first step toward a trust-based open business built on code.”
 
 Based on PHAM Neural Genesis — New_Run.py
 © 2025 Qquarts Co / GNJz
-Licensed under PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)
+Licensed under PHAM-OPEN LICENSE v1.0
+(Trust-Based Edition)
 
 ---
 
