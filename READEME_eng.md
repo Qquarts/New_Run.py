@@ -65,7 +65,7 @@ python3 view_chain_quick.py
 
 → Displays the full blockchain ledger and signature history.
 
-⸻
+---
 
 ## 🔗 PHAM Chain Info
 Item
@@ -85,7 +85,7 @@ All blocks are linked via previous_hash, ensuring data integrity and immutabilit
 
 All blocks are linked via previous_hash, ensuring data integrity and immutability.
 
-⸻
+---
 
 ## 📜 PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)
 
@@ -105,7 +105,7 @@ Core Principles
 
 For the full license text, see the LICENSE file.
 
-⸻
+---
 
 ## 🧠 Philosophy
 
@@ -116,7 +116,7 @@ sharing over possession.
 PHAM Neural Genesis redefines digital creation as a transparent ecosystem
 where developers and researchers prove value through trust and code itself.
 
-⸻
+---
 
 ## 🪩 How to Join
 
@@ -133,7 +133,7 @@ python3 view_chain_quick.py
 Once your name is recorded in the PHAM Ledger,
 it becomes your personal signature within the system.
 
-⸻
+---
 
 ## 💡 Roadmap
 Stage
@@ -155,8 +155,7 @@ Automatic IPFS upload system
 Community feedback (v1.1)
 🕓 Planned
 
-
-⸻
+---
 
 ## 📫 Contact
 
@@ -165,7 +164,7 @@ Qquarts Co / GNJz
 🌐 Website: https://phamtasia.com￼
 🪙 Ledger: PHAM Neural Genesis Chain
 
-⸻
+---
 
 🏁 Release Info
 	•	Release Date: Nov 11, 2025 (AEDT)
@@ -175,7 +174,7 @@ Qquarts Co / GNJz
 “PHAM Neural Genesis v1.0 —
 The first step toward a trust-based open business built on code.”
 
-⸻
+---
 
 ## 🧾 Citation
 
@@ -183,6 +182,6 @@ Based on PHAM Neural Genesis — New_Run.py
 © 2025 Qquarts Co / GNJz
 Licensed under PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)
 
-⸻
+---
 
 Feedback welcome via GitHub Issues.
