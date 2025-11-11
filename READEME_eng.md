@@ -52,21 +52,22 @@ Anyone can verify their authenticity through the hash.
 python3 new_run_quick.py
 → Executes the neuron energy circulation simulation.
 
-2️⃣ Register Signature in Ledger
+### 2️⃣ Register Signature in Ledger
+```bash
 python3 pham_sign_v3.py new_run_quick.py "YourName" "Message"
 
 → The file’s hash is stored as a new block in pham_chain_log_new_run_quick.json.
 → Optionally, an IPFS CID is also published.
 
-3️⃣ Verify Ledger
-
+### 3️⃣ Verify Ledger
+```bash
 python3 view_chain_quick.py
 
 → Displays the full blockchain ledger and signature history.
 
 ⸻
 
-🔗 PHAM Chain Info
+## 🔗 PHAM Chain Info
 Item
 Value
 Version
@@ -86,7 +87,7 @@ All blocks are linked via previous_hash, ensuring data integrity and immutabilit
 
 ⸻
 
-📜 PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)
+## 📜 PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)
 
 This project follows a trust-based open license without legal enforcement.
 All users are free to use the code for any purpose.
@@ -106,7 +107,7 @@ For the full license text, see the LICENSE file.
 
 ⸻
 
-🧠 Philosophy
+## 🧠 Philosophy
 
 We choose record over law,
 trust over enforcement,
@@ -117,7 +118,7 @@ where developers and researchers prove value through trust and code itself.
 
 ⸻
 
-🪩 How to Join
+## 🪩 How to Join
 
 Clone and Run
 
@@ -134,7 +135,7 @@ it becomes your personal signature within the system.
 
 ⸻
 
-💡 Roadmap
+## 💡 Roadmap
 Stage
 Goal
 Status
@@ -157,7 +158,7 @@ Community feedback (v1.1)
 
 ⸻
 
-📫 Contact
+## 📫 Contact
 
 Qquarts Co / GNJz
 📧 Email: pham@qquarts.co (TBD)
@@ -176,7 +177,7 @@ The first step toward a trust-based open business built on code.”
 
 ⸻
 
-🧾 Citation
+## 🧾 Citation
 
 Based on PHAM Neural Genesis — New_Run.py
 © 2025 Qquarts Co / GNJz
