@@ -17,6 +17,20 @@
 
 ---
 
+## 🔗 검증된 공식 공개본 (IPFS)
+
+PHAM Neural Genesis v1.0의 모든 공식 코드와 문서는
+영구적으로 IPFS(InterPlanetary File System) 에 저장되어 있으며,
+누구나 해시를 통해 진위를 검증할 수 있습니다.
+
+🌍 루트 CID: QmejFivibj4biuXXDjSzPgyC9VfE7b2J2crvqBX94HMh7B
+직접 링크: https://ipfs.io/ipfs/QmejFivibj4biuXXDjSzPgyC9VfE7b2J2crvqBX94HMh7B￼
+
+“이 CID에는 검증된 PHAM v3 전체 소스 디렉토리가 포함되어 있습니다.
+모든 블록은 해시로 고유하게 식별되며, 변경 불가능하고 공개적으로 검증 가능합니다.”
+
+---
+
 ## ⚙️ 구조 (Structure)
 
 | 구성 파일 | 설명 |
