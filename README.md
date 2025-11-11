@@ -21,10 +21,10 @@
 
 | 구성 파일 | 설명 |
 |------------|------|
-| `New_Run.py` | PHAM 시스템의 첫 번째 자가순환 뉴런 코드 |
-| `pham_sign_v2.py` | 코드 발행 및 Ledger 등록 도구 |
-| `pham_chain_log.json` | 블록체인 형태의 코드 변경 기록 (PHAM Ledger) |
-| `LICENSE` | PHAM-OPEN LICENSE v2.0 (신뢰 기반 저작권 계약) |
+| `new_run_quick.py` | PHAM 시스템의 첫 번째 자가순환 뉴런 코드 |
+| `pham_sign_v3.py` | 코드 발행 및 Ledger 등록 도구 |
+| `pham_chain_log_new_run_quick.json` | 블록체인 형태의 코드 변경 기록 (PHAM Ledger) |
+| `LICENSE` | PHAM-OPEN LICENSE (english , korean ).0 (신뢰 기반 저작권 계약) |
 | `README_ko.md` | 공식 발매 문서 및 사용자 안내서 |
 
 ---
@@ -33,17 +33,17 @@
 
 1. **코드 실행 및 연구**
    ```bash
-   python3 New_Run.py
+   python3 new_run_quick.py
 → 뉴런 에너지 순환 시뮬레이션 실행.
 
 2. Ledger 서명 등록
-python3 pham_sign_v3.py New_Run_quick.py "사용자이름" "메시지"
+python3 pham_sign_v3.py new_run_quick.py "사용자이름" "메시지"
 
-→ 코드의 해시값이 블록으로 생성되어 pham_chain_log.json에 자동 저장됩니다.
+→ 코드의 해시값이 블록으로 생성되어 pham_chain_log_new_run_quick.json에 자동 저장됩니다.
 → 필요 시 IPFS에 CID가 함께 발행됩니다.
 
 3. Ledger 검증
-python3 view_chain.py
+python3 view_chain_quick.py
 → 전체 블록체인 기록을 확인합니다.
 
 ⸻
@@ -54,21 +54,21 @@ python3 view_chain.py
 최신 CID	QmTVag3oUEqRUV2Webx44dYeUrwFqJ9dAh6W4FBegiwxbP
 블록 수	12
 원본 해시 알고리즘	SHA-256
-저장 위치	pham_chain_log.json / IPFS
+저장 위치	pham_chain_log_quick.json / IPFS
 모든 블록은 해시 검증을 통해 무결성을 유지하며,
 previous_hash 체인으로 연결되어 있습니다.
 
 ⸻
 
-📜 PHAM-OPEN LICENSE v2.0 (Trust-Based Edition)
+📜 PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)
 
 본 코드는 법적 강제력이 없는 신뢰 기반 라이선스입니다.
 모든 사용자는 자유롭게 코드를 활용할 수 있으며,
-상업적 수익이 발생할 경우 최대 6% 이하의 자발적 기여를 권장합니다.
+상업적 수익이 발생할 경우 최대 6% 이하의 자발적 기여를 
 
 핵심 조항 요약
 	1.	연구·교육·비영리 목적 사용 → 완전 자유
-	2.	상업적 수익 발생 시 → 최대 6% 이하의 자발적 기여
+	2.	상업적 수익 발생 시 → 최대 6% 이하의 자발적 기여 문화 형성 권장
 	3.	출처 명시 필수 →
 “Based on PHAM Neural Genesis — New_Run.py © Qquarts Co, 2025”
 	4.	Ledger 해시 및 CID → 변경·삭제 금지
@@ -98,15 +98,15 @@ PHAM Neural Genesis는
 
 git clone https://github.com/YOURNAME/pham-neural-genesis.git
 cd pham-neural-genesis
-python3 New_Run.py
+python3 new_run_quick.py
 
 2️⃣ Ledger에 참여 (서명 등록)
 
-python3 pham_sign_v2.py New_Run.py "YourName" "Genesis 참여"
+python3 pham_sign_v2.py new_run_quick.py "YourName" "Genesis 참여"
 
 3️⃣ 기여 내용 확인
 
-python3 view_chain.py
+python3 view_chain_quick.py
 
 자신의 이름이 PHAM Ledger에 기록되면,
 그것은 곧 하나의 서명(signature)이 됩니다.
@@ -128,14 +128,14 @@ python3 view_chain.py
 📫 연락처 (Contact)
 
 Qquarts Co / GNJz
-📧 이메일: pham@qquarts.co
+📧 이메일: pham@qquarts.co ( 미정 ) 
 🌐 웹사이트: https://phamtasia.com
 🪙 Ledger: PHAM Neural Genesis Chain
 
 ⸻
 
 🏁 발매 정보 (Release Info)
-	•	발매일: 2025년 11월 10일 (호주 AEDT)
+	•	발매일: 2025년 11월 11일 (호주 AEDT)
 	•	버전: v1.0 — Genesis Launch Edition
 	•	형식: 오픈 코드 + 블록체인 Ledger 동시 발행
 
