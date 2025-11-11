@@ -152,9 +152,9 @@ python3 view_chain_quick.py
 ## 📫 연락처 (Contact)
 
 Qquarts Co / GNJz
-📧 이메일: pham@qquarts.co ( 미정 ) 
-🌐 웹사이트: https://phamtasia.com
-🪙 Ledger: PHAM Neural Genesis Chain
+📧 이메일: pham@qquarts.co ( 미정 )   
+🌐 웹사이트: https://phamtasia.com  
+🪙 Ledger: PHAM Neural Genesis Chain  
 
 ⸻
 
