@@ -62,7 +62,7 @@ python3 view_chain_quick.py
 
 ⸻
 
-🔗 Ledger 정보 (PHAM Chain)
+## 🔗 Ledger 정보 (PHAM Chain)
 항목	내용
 현재 버전	v1.0
 최신 CID	QmTVag3oUEqRUV2Webx44dYeUrwFqJ9dAh6W4FBegiwxbP
@@ -74,7 +74,7 @@ previous_hash 체인으로 연결되어 있습니다.
 
 ⸻
 
-📜 PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)
+## 📜 PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)
 
 본 코드는 법적 강제력이 없는 신뢰 기반 라이선스입니다.
 모든 사용자는 자유롭게 코드를 활용할 수 있으며,
@@ -92,7 +92,7 @@ Trust as Law. Ledger as Proof. Code as Culture.
 
 📄 자세한 전문은 LICENSE 파일 참조.
 
-💎 기여도 기반 수익 배분 (Contribution-Based Reward System)
+## 💎 기여도 기반 수익 배분 (Contribution-Based Reward System)
 
 PHAM 시스템은 단순한 자발 기여 모델을 넘어,
 기여 기록(Ledger Entry) 자체가 향후 수익 분배의 근거로 작동합니다.
@@ -106,7 +106,7 @@ PHAM 시스템은 단순한 자발 기여 모델을 넘어,
 
 ⸻
 
-🧠 프로젝트 철학 (Philosophy)
+## 🧠 프로젝트 철학 (Philosophy)
 
 우리는 법보다 기록,
 강제보다 신뢰,
@@ -118,7 +118,7 @@ PHAM Neural Genesis는
 
 ⸻
 
-🪩 참여 방법 (How to Join)
+## 🪩 참여 방법 (How to Join)
 
 1️⃣ 코드 복제 및 실행
 
@@ -139,7 +139,7 @@ python3 view_chain_quick.py
 
 ⸻
 
-💡 주요 목표 (Roadmap)
+## 💡 주요 목표 (Roadmap)
 
 단계	목표	상태
 1단계	뉴런 시뮬레이션 코드 발매	✅ 완료
@@ -151,7 +151,7 @@ python3 view_chain_quick.py
 
 ⸻
 
-📫 연락처 (Contact)
+## 📫 연락처 (Contact)
 
 Qquarts Co / GNJz
 📧 이메일: pham@qquarts.co ( 미정 ) 
