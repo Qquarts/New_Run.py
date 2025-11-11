@@ -46,19 +46,18 @@ PHAM Neural Genesis v1.0의 모든 공식 코드와 문서는
 ## 🌍 작동 방식 (How It Works)
 
 1. **코드 실행 및 연구**
-   ```bash
-   python3 new_run_quick.py
-→ 뉴런 에너지 순환 시뮬레이션 실행.
+   python3 new_run_quick.py  
+→ 뉴런 에너지 순환 시뮬레이션 실행.  
 
-2. Ledger 서명 등록
-python3 pham_sign_v3.py new_run_quick.py "사용자이름" "메시지"
+2. Ledger 서명 등록  
+python3 pham_sign_v3.py new_run_quick.py "사용자이름" "메시지"  
 
-→ 코드의 해시값이 블록으로 생성되어 pham_chain_log_new_run_quick.json에 자동 저장됩니다.
-→ 필요 시 IPFS에 CID가 함께 발행됩니다.
+→ 코드의 해시값이 블록으로 생성되어 pham_chain_log_new_run_quick.json에 자동 저장됩니다.  
+→ 필요 시 IPFS에 CID가 함께 발행됩니다.  
 
-3. Ledger 검증
-python3 view_chain_quick.py
-→ 전체 블록체인 기록을 확인합니다.
+3. Ledger 검증  
+python3 view_chain_quick.py  
+→ 전체 블록체인 기록을 확인합니다.  
 
 ⸻
 
