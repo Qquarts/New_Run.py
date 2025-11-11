@@ -18,16 +18,16 @@
 ---
 
 ## 🔗 검증된 공식 공개본 (IPFS)
+ 
+PHAM Neural Genesis v1.0의 모든 공식 코드와 문서는  
+영구적으로 IPFS(InterPlanetary File System) 에 저장되어 있으며,  
+누구나 해시를 통해 진위를 검증할 수 있습니다.  
 
-PHAM Neural Genesis v1.0의 모든 공식 코드와 문서는
-영구적으로 IPFS(InterPlanetary File System) 에 저장되어 있으며,
-누구나 해시를 통해 진위를 검증할 수 있습니다.
+🌍 루트 CID: QmejFivibj4biuXXDjSzPgyC9VfE7b2J2crvqBX94HMh7B  
+직접 링크: https://ipfs.io/ipfs/QmejFivibj4biuXXDjSzPgyC9VfE7b2J2crvqBX94HMh7B￼  
 
-🌍 루트 CID: QmejFivibj4biuXXDjSzPgyC9VfE7b2J2crvqBX94HMh7B
-직접 링크: https://ipfs.io/ipfs/QmejFivibj4biuXXDjSzPgyC9VfE7b2J2crvqBX94HMh7B￼
-
-“이 CID에는 검증된 PHAM v3 전체 소스 디렉토리가 포함되어 있습니다.
-모든 블록은 해시로 고유하게 식별되며, 변경 불가능하고 공개적으로 검증 가능합니다.”
+“이 CID에는 검증된 PHAM v3 전체 소스 디렉토리가 포함되어 있습니다.  
+모든 블록은 해시로 고유하게 식별되며, 변경 불가능하고 공개적으로 검증 가능합니다.”  
 
 ---
 
@@ -35,11 +35,11 @@ PHAM Neural Genesis v1.0의 모든 공식 코드와 문서는
 
 | 구성 파일 | 설명 |
 |------------|------|
-| `new_run_quick.py` | PHAM 시스템의 첫 번째 자가순환 뉴런 코드 |
-| `pham_sign_v3.py` | 코드 발행 및 Ledger 등록 도구 |
-| `pham_chain_log_new_run_quick.json` | 블록체인 형태의 코드 변경 기록 (PHAM Ledger) |
-| `LICENSE` | PHAM-OPEN LICENSE (english , korean ).0 (신뢰 기반 저작권 계약) |
-| `README_ko.md` | 공식 발매 문서 및 사용자 안내서 |
+| `new_run_quick.py` | PHAM 시스템의 첫 번째 자가순환 뉴런 코드 |  
+| `pham_sign_v3.py` | 코드 발행 및 Ledger 등록 도구 |  
+| `pham_chain_log_new_run_quick.json` | 블록체인 형태의 코드 변경 기록 (PHAM Ledger) |  
+| `LICENSE` | PHAM-OPEN LICENSE (english , korean ).0 (신뢰 기반 저작권 계약) |  
+| `README_ko.md` | 공식 발매 문서 및 사용자 안내서 |  
 
 ---
 
