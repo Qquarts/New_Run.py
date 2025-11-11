@@ -80,8 +80,6 @@ pham_chain_log_quick.json / IPFS
 
 All blocks are linked via previous_hash, ensuring data integrity and immutability.
 
-All blocks are linked via previous_hash, ensuring data integrity and immutability.
-
 ---
 
 ## 📜 PHAM-OPEN LICENSE v1.0 (Trust-Based Edition)
