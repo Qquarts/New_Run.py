@@ -137,14 +137,14 @@ python3 view_chain_quick.py
 
 ⸻
 
-## 💡 주요 목표 (Roadmap)
+## 💡 주요 목표 (Roadmap)  
 
-단계	목표	상태
-1단계	뉴런 시뮬레이션 코드 발매	✅ 완료
-2단계	PHAM Ledger 체인 확립	✅ 완료
-3단계	PHAM-OPEN License 정식화	✅ 완료
-4단계	자동 IPFS 업로드 시스템	🔄 진행 예정
-5단계	커뮤니티 피드백 반영 (v1.1)	예정
+단계	목표	상태  
+1단계	뉴런 시뮬레이션 코드 발매	✅ 완료  
+2단계	PHAM Ledger 체인 확립	✅ 완료  
+3단계	PHAM-OPEN License 정식화	✅ 완료  
+4단계	자동 IPFS 업로드 시스템	🔄 진행 예정  
+5단계	커뮤니티 피드백 반영 (v1.1)	예정  
 
 
 ⸻
@@ -158,21 +158,21 @@ Qquarts Co / GNJz
 
 ⸻
 
-🏁 발매 정보 (Release Info)
-	•	발매일: 2025년 11월 11일 (호주 AEDT)
-	•	버전: v1.0 — Genesis Launch Edition
-	•	형식: 오픈 코드 + 블록체인 Ledger 동시 발행
+🏁 발매 정보 (Release Info)  
+	•	발매일: 2025년 11월 11일 (호주 AEDT)  
+	•	버전: v1.0 — Genesis Launch Edition  
+	•	형식: 오픈 코드 + 블록체인 Ledger 동시 발행  
 
-“PHAM Neural Genesis v1.0 —
-오픈소스로 시작하는 신뢰 기반 비즈니스의 첫 걸음.”
+“PHAM Neural Genesis v1.0 —  
+오픈소스로 시작하는 신뢰 기반 비즈니스의 첫 걸음.”  
 
 ⸻
 
-🧾 인용문 (Citation)
+🧾 인용문 (Citation)  
 
-Based on PHAM Neural Genesis — New_Run.py
-© 2025 Qquarts Co / GNJz
-Licensed under PHAM-OPEN LICENSE v2.0 (Trust-Based Edition)
+Based on PHAM Neural Genesis — New_Run.py  
+© 2025 Qquarts Co / GNJz  
+Licensed under PHAM-OPEN LICENSE v2.0 (Trust-Based Edition)  
 
 ---
 
