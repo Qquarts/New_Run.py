@@ -92,6 +92,18 @@ Trust as Law. Ledger as Proof. Code as Culture.
 
 📄 자세한 전문은 LICENSE 파일 참조.
 
+💎 기여도 기반 수익 배분 (Contribution-Based Reward System)
+
+PHAM 시스템은 단순한 자발 기여 모델을 넘어,
+기여 기록(Ledger Entry) 자체가 향후 수익 분배의 근거로 작동합니다.
+	•	모든 기여자는 pham_sign_v3.py를 통해 자신의 코드, 수정, 아이디어에 서명(Signature) 합니다.
+	•	각 서명은 블록체인 기반 Ledger에 저장되어, 기여 시점·내용·CID가 영구히 기록됩니다.
+	•	PHAM 생태계에서 발생하는 수익은 Ledger 기록을 기반으로 자동 비율 계산 및 배분됩니다.
+
+💠 즉, “Ledger에 서명한 순간부터, 기여는 자산이 됩니다.”
+이 구조는 중앙 서버 없이 기여 = 소유권으로 작동합니다.
+
+
 ⸻
 
 🧠 프로젝트 철학 (Philosophy)
