@@ -1,4 +1,4 @@
-# 🌌 PHAM Neural Genesis v1.0  
+# 🌌 PHAM Neural Genesis v1.0 ( Test )
 **신뢰 기반 오픈 코드 비즈니스 공식 발매 (Trust-Based Open Code Business Launch)**  
 (C) 2025 Qquarts Co / GNJz  
 
