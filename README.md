@@ -1,4 +1,4 @@
-# 🌌 PHAM Neural Genesis v1.0  
+# 🌌 PHAM Neural Genesis v2.0  
 **ATP 기반 생물물리 뉴런 시뮬레이터 + 블록체인 신뢰 원장 시스템**  
 (C) 2025 Qquarts Co / GNJz  
 
