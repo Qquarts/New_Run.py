@@ -63,40 +63,42 @@ def _import_module(module_name, file_path):
     spec.loader.exec_module(module)
     return module
 
-# CONFIG 및 모든 컴포넌트 import
-_config_mod = _import_module("bioneuron_config", os.path.join(_current_dir, "00.bioneuron_config.py"))
+# CONFIG 및 모든 컴포넌트 import (components 폴더에서)
+_components_dir = os.path.join(_current_dir, "components")
+
+_config_mod = _import_module("bioneuron_config", os.path.join(_components_dir, "00.bioneuron_config.py"))
 CONFIG = _config_mod.CONFIG
 
-_dtg_mod = _import_module("dtg_system", os.path.join(_current_dir, "01.dtg_system.py"))
+_dtg_mod = _import_module("dtg_system", os.path.join(_components_dir, "01.dtg_system.py"))
 DTGSystem = _dtg_mod.DTGSystem
 
-_mito_mod = _import_module("mitochon_atp", os.path.join(_current_dir, "02.mitochon_atp.py"))
+_mito_mod = _import_module("mitochon_atp", os.path.join(_components_dir, "02.mitochon_atp.py"))
 Mitochondria = _mito_mod.Mitochondria
 
-_hh_mod = _import_module("hh_soma", os.path.join(_current_dir, "03.hh_soma.py"))
+_hh_mod = _import_module("hh_soma", os.path.join(_components_dir, "03.hh_soma.py"))
 HHSoma = _hh_mod.HHSoma
 
-_ion_mod = _import_module("ion_flow", os.path.join(_current_dir, "04.ion_flow.py"))
+_ion_mod = _import_module("ion_flow", os.path.join(_components_dir, "04.ion_flow.py"))
 IonFlowDynamics = _ion_mod.IonFlowDynamics
 
-_axon_mod = _import_module("myelin_axon", os.path.join(_current_dir, "05.myelin_axon.py"))
+_axon_mod = _import_module("myelin_axon", os.path.join(_components_dir, "05.myelin_axon.py"))
 MyelinatedAxon = _axon_mod.MyelinatedAxon
 
-_ca_mod = _import_module("ca_vesicle", os.path.join(_current_dir, "06.ca_vesicle.py"))
+_ca_mod = _import_module("ca_vesicle", os.path.join(_components_dir, "06.ca_vesicle.py"))
 CaVesicle = _ca_mod.CaVesicle
 VesicleEvent = _ca_mod.VesicleEvent
 
-_ptp_mod = _import_module("ptp", os.path.join(_current_dir, "07.ptp.py"))
+_ptp_mod = _import_module("ptp", os.path.join(_components_dir, "07.ptp.py"))
 PTPPlasticity = _ptp_mod.PTPPlasticity
 PTPConfig = _ptp_mod.PTPConfig
 
-_feedback_mod = _import_module("metabolic_feedback", os.path.join(_current_dir, "08.metabolic_feedback.py"))
+_feedback_mod = _import_module("metabolic_feedback", os.path.join(_components_dir, "08.metabolic_feedback.py"))
 MetabolicFeedback = _feedback_mod.MetabolicFeedback
 
-_resonance_mod = _import_module("synaptic_resonance", os.path.join(_current_dir, "09.synaptic_resonance.py"))
+_resonance_mod = _import_module("synaptic_resonance", os.path.join(_components_dir, "09.synaptic_resonance.py"))
 SynapticResonance = _resonance_mod.SynapticResonance
 
-_terminal_mod = _import_module("terminal_release", os.path.join(_current_dir, "10.terminal_release.py"))
+_terminal_mod = _import_module("terminal_release", os.path.join(_components_dir, "10.terminal_release.py"))
 Terminal = _terminal_mod.Terminal
 SimpleSynapse = _terminal_mod.SimpleSynapse
 
